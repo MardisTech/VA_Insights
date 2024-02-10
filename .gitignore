@@ -1,0 +1,9 @@
+Getting_Started.txt
+
+pyvenv.cfg
+
+Lib/
+Scripts/
+Include/
+etc/
+Share/
